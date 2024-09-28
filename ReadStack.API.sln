@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadStack.API", "ReadStack.API\ReadStack.API.csproj", "{EC29F6CC-37BA-4255-858E-75863E4F5B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadStack.Application", "ReadStack.Application\ReadStack.Application.csproj", "{CEC36DF0-44B5-45E0-9E2D-7B552EBCEF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadStack.Core", "ReadStack.Core\ReadStack.Core.csproj", "{ED267463-9FC5-4827-BBBF-A6E2F47D077B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadStack.Infrastructure", "ReadStack.Infrastructure\ReadStack.Infrastructure.csproj", "{3967C65D-3A1C-45D2-997F-879ECD288334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC29F6CC-37BA-4255-858E-75863E4F5B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC29F6CC-37BA-4255-858E-75863E4F5B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC29F6CC-37BA-4255-858E-75863E4F5B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC29F6CC-37BA-4255-858E-75863E4F5B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC36DF0-44B5-45E0-9E2D-7B552EBCEF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC36DF0-44B5-45E0-9E2D-7B552EBCEF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC36DF0-44B5-45E0-9E2D-7B552EBCEF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC36DF0-44B5-45E0-9E2D-7B552EBCEF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED267463-9FC5-4827-BBBF-A6E2F47D077B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED267463-9FC5-4827-BBBF-A6E2F47D077B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED267463-9FC5-4827-BBBF-A6E2F47D077B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED267463-9FC5-4827-BBBF-A6E2F47D077B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3967C65D-3A1C-45D2-997F-879ECD288334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3967C65D-3A1C-45D2-997F-879ECD288334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3967C65D-3A1C-45D2-997F-879ECD288334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3967C65D-3A1C-45D2-997F-879ECD288334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A3A767-E045-4681-BC8D-00289C257246}
+	EndGlobalSection
+EndGlobal
